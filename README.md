@@ -34,15 +34,7 @@ ________________________________________________________________________________
 
 # Key Insights
 
-* **Tier 3 outlets** generate the most revenue **($472.2K)**. 
-* **Tier 1 outlets** have lower revenue **($336.4K)**, meaning there’s room to grow in these areas.
-* Medium-sized outlets contribute the highest sales **($508K, 42%)**
-* Small outlets only contribute **21%**, indicating they need better strategies to grow.
-* **Fruits & Vegetables, Snack Foods,** and **Household Items** are the highest revenue generators.
-* **Seafood, Breakfast items, and Starchy Foods** have low sales and need promotion.
-* Low fat items make up **65%** of total sales, showing customers prefer low- fat products over Regular ones.
-*  **Supermarket Type 1** is the top performer, bringing in **$787.5K** in sales.
-*   Other types like **Grocery Stores** can be improved with better promotions.
+[Download Reports](https://github.com/SubhajitDey2/Electric_Vehicle_Sales_by_State_in_India/blob/main/Final%20Report%20%26%20Buisness%20Insights.docx)
 
 ![Updated Photo](https://github.com/SubhajitDey2/Electric_Vehicle_Sales_by_State_in_India/blob/main/dashbord.PNG)
 __________________________________________________________________________________________________________________________________________________________________________________________________
