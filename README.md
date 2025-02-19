@@ -42,11 +42,11 @@ ________________________________________________________________________________
 
 ## Recommendations to Improvement’s
 
-1. Focus on Tier 3 Markets
-• Expand more in Tier 3 locations since they bring in the highest revenue.
-2. Boost Small Outlets
-• Improve small outlets by increasing product variety and offering discounts or promotions.
-3. Promote Low-Selling Items
+1. Focus on Top 5 State
+• Expand more in Top 5 States locations since they bring in the highest revenue.
+2. Boost Lowest State
+• Improve small state by increasing product variety and offering discounts or promotions.
+3. Promote Low-Selling Items & Marketing
 • Run promotions on Seafood, Breakfast items, and Starchy Foods to increase their sales.
 4. Stock More of Top-Selling Products
 • Ensure adequate stock of Fruits & Vegetables, Snack Foods, and Household Items to meet high 
